@@ -1,0 +1,6 @@
+Name:针女
+Level:6
+Position:1
+Attack incValue:498.0
+Attack incRate:0.11
+
